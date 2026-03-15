@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Work\FPGA\decoder_3_8\simulation\qsim
+vdecoder_3_8
+Z1 I?mEh2bAM1^@Tnd2o@c9<?2
+Z2 V8Vd]e8[MXaV8^h4>Czhgg1
+Z3 dC:\Work\FPGA\decoder_3_8\simulation\qsim
+Z4 w1750515322
+Z5 8decoder_3_8.vo
+Z6 Fdecoder_3_8.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|decoder_3_8.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 m_nle@JMNZ0MQRJ?m87f>1
+!s85 0
+Z11 !s108 1750515323.256000
+Z12 !s107 decoder_3_8.vo|
+!s101 -O0
+vdecoder_3_8_vlg_check_tst
+!i10b 1
+Z13 !s100 o4QPi4LlC?AQ=]c>8lF1W0
+Z14 I[f`OV8LCOTC?@2YR^zDcK3
+Z15 V<Am9JQ0kJ<<o@dJNj4:fY3
+R3
+R4
+Z16 8decoder_3_8.vt
+Z17 Fdecoder_3_8.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z18 !s108 1750515323.305000
+Z19 !s107 decoder_3_8.vt|
+Z20 !s90 -work|work|decoder_3_8.vt|
+!s101 -O0
+R9
+vdecoder_3_8_vlg_sample_tst
+!i10b 1
+Z21 !s100 hS[_dLAX81a]iP6:?<lCe1
+Z22 I_?KRQOg`zA2P8EPWI:][61
+Z23 Vj?8YXk[D3[@lLAo]_^n3^1
+R3
+R4
+R16
+R17
+L0 29
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R9
+vdecoder_3_8_vlg_vec_tst
+!i10b 1
+Z24 !s100 `7?z?Qh]LjC0acd[RFV_C1
+Z25 IBa]S?YZRMX7T63:4e0__D1
+Z26 V4CDo8n?2VV<PQgUQQFJN83
+R3
+R4
+R16
+R17
+Z27 L0 345
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R9

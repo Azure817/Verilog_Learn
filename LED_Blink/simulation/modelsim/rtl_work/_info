@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Work\FPGA\LED_Blink\simulation\modelsim
+vLED_Blink
+IJ91gf^iNVaQF2CB8?3JJZ3
+VO_dcek=dB0C=2mVOIkgYo1
+Z1 dC:\Work\FPGA\LED_Blink\simulation\modelsim
+w1750582077
+8C:/Work/FPGA/LED_Blink/src/LED_Blink.v
+FC:/Work/FPGA/LED_Blink/src/LED_Blink.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+n@l@e@d_@blink
+!i10b 1
+!s100 `BAE0X45?eanPIHcVMNYT1
+!s85 0
+!s108 1767354603.397000
+!s107 C:/Work/FPGA/LED_Blink/src/LED_Blink.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Work/FPGA/LED_Blink/src|C:/Work/FPGA/LED_Blink/src/LED_Blink.v|
+!s101 -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/Work/FPGA/LED_Blink/src -O0
+vLED_Blink_tb
+!i10b 1
+!s100 L5LK2E?<0>TSMG5HNn>]<0
+IMSbWeg6hl^<aENFENhnmR1
+VOKKCCahXm@APg@eD2h]Wb3
+R1
+w1750581928
+8C:/Work/FPGA/LED_Blink/src/LED_Blink_tb.v
+FC:/Work/FPGA/LED_Blink/src/LED_Blink_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1767354603.427000
+!s107 C:/Work/FPGA/LED_Blink/src/LED_Blink_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Work/FPGA/LED_Blink/src|C:/Work/FPGA/LED_Blink/src/LED_Blink_tb.v|
+!s101 -O0
+R3
+R4
+n@l@e@d_@blink_tb

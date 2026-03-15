@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Work\FPGA\decoder_3_8\simulation\modelsim
+vdecoder_3_8
+!i10b 1
+!s100 z2BN87>7UQcOgT[PfQ6jI3
+I4?2[k@jKAYXd4T8Az^I^k1
+V8Vd]e8[MXaV8^h4>Czhgg1
+Z1 dC:\Work\FPGA\decoder_3_8\simulation\modelsim
+w1750515048
+8C:/Work/FPGA/decoder_3_8/src/decoder_3_8.v
+FC:/Work/FPGA/decoder_3_8/src/decoder_3_8.v
+L0 1
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1750515090.700000
+!s107 C:/Work/FPGA/decoder_3_8/src/decoder_3_8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Work/FPGA/decoder_3_8/src|C:/Work/FPGA/decoder_3_8/src/decoder_3_8.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+C:/Work/FPGA/decoder_3_8/src -O0

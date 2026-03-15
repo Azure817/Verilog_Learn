@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Work\FPGA\Led_shift\simulation\modelsim
+vLed_shift
+IY]gQ^>]^G:4:;PQ?^l0Pj1
+VCNQYFZ:eXgHYB[W9nfCOJ2
+Z1 dC:\Work\FPGA\Led_shift\simulation\modelsim
+w1767356736
+8C:/Work/FPGA/Led_shift/src/Led_shift.v
+FC:/Work/FPGA/Led_shift/src/Led_shift.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+n@led_shift
+!i10b 1
+!s100 [7J<AF@h7z18<NZ;YK<JV2
+!s85 0
+!s108 1767356754.216000
+!s107 C:/Work/FPGA/Led_shift/src/Led_shift.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Work/FPGA/Led_shift/src|C:/Work/FPGA/Led_shift/src/Led_shift.v|
+!s101 -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/Work/FPGA/Led_shift/src -O0
+vLed_shift_tb
+!i10b 1
+!s100 ?bSNKo>m>?l`h@27d1VRk2
+I;7Mzm7LI?<FeGQ<MzLT=<0
+V;aYPz`AW2FBb]4RRQn3e[3
+R1
+w1767355154
+8C:/Work/FPGA/Led_shift/src/Led_shift_tb.v
+FC:/Work/FPGA/Led_shift/src/Led_shift_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1767356754.245000
+!s107 C:/Work/FPGA/Led_shift/src/Led_shift_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Work/FPGA/Led_shift/src|C:/Work/FPGA/Led_shift/src/Led_shift_tb.v|
+!s101 -O0
+R3
+R4
+n@led_shift_tb

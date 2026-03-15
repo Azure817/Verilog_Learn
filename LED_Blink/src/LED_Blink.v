@@ -1,0 +1,31 @@
+module LED_Blink 
+(
+    clk,
+    reset_n,
+    led
+);
+    input clk;
+    input reset_n;
+    output reg led;
+
+    reg [24:0] counter;
+    
+    always @(posedge clk or negedge reset_n) 
+    begin
+        if(!reset_n)
+            counter <=0;
+        else if (counter ==25_000_000-1)
+            counter <=0;
+        else
+            counter <= counter + 1'd1;
+        
+    end
+    always @(posedge clk or negedge reset_n) 
+    begin
+        if(!reset_n)
+            led <=0;
+        else if(counter ==25_000_000-1)
+        led <= !led;
+    end
+
+endmodule
